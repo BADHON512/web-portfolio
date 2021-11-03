@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+#hol{
+font-size: 37px;
+}
+.holod
+{
+    color: orange;
+    
+}
+.text{
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.fhoto img{
+    height: 400px;
+    width: 500px;
+    margin-left: 150px;
+}
+.top-bannar{
+   /* border: 1px solid red;*/
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+   
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(45deg, red, yellow );
+    padding:10px 30px;
+    border-radius: 5px;
+    margin-top:10px;
+}
+.chobi img{
+    height:500px;
+    width:500px;
+    margin-right: 20px;
+
+    
+}
+
+    
+.meddel-text{
+    float: right;
+    width: 500px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.meddel{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position: right;
+    
+    height:500px;
+  
+}
+.meddel-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg,red, tomato);
+    border-radius: 5px;
+   
+
+}
+p{
+    color: dimgray;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-color:white;
+    padding-top: 50px; 
+
+    
+
+}
+.half-width{
+    width: 560px;
+    float: left;
+    padding-left: 80px;
+    margin-left: 20px;
+    padding-top:50px;
+   
+
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height:300px;
+    background-color:white; 
+}
+#dag{
+    border-left: 7px solid;
+
+     border-image:linear-gradient(180deg, lightsalmon, tomato);
+     border-image-slice: 1;
+
+}
+#da{
+   border-left:7px solid; 
+   border-image:linear-gradient(180deg, blue ,cyan
+   );
+   border-image-slice:1;
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+    background-color: violet;
+    padding: 5px 5px;
+    border: 5px solid,black;
+    border-radius: 10px;
+    color: rgb(29, 27, 158);
+    font-weight:bold;
+}
